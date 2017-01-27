@@ -1,0 +1,17 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: main_sidebar
+  product: Main Sidebar
+  levels: one
+  folders:
+
+  - title: Fundamentals
+    output: web
+    folderitems:
+    - title: Introduction
+      url: /main_introduction.html
+      output: web
+    - title: Linear Classification
+      url: /main_linear_classification.html
+      output: web
